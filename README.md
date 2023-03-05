@@ -1,5 +1,7 @@
 # projetos em C
 
+<img src="https://http2.mlstatic.com/D_NQ_NP_918892-MLB46195380165_052021-O.jpg" width=220>
+
 ## site com objetivo de passar codigos em Pyton para C.
 
 Cada arquivo é um dos exercicios por ordem numerica, ex: algoritimo 1 exerício 1, segue abaixo exercioios propostos!
